@@ -1,0 +1,48 @@
+Follow the directions provided in the Comprehensive Project Directions pdf.
+Instead of hosting the website on Replit, we will be hosting it on GitHub.
+
+
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+(this tutorial includes pictures).
+
+
+Once you have made a GitHub account: 
+- Create a repository named WellnessClinic. It will remain public.
+- Under <>Code click "uploading an existing file" under Quick Setup.
+- Choose your files to upload. There MUST be an index.html file in order for your page 
+  to work properly, this is the default page that will open to the site. Then "Commit" 
+  your changes.
+- To add folders: add file -> create new file. In Name Your File type in "folderName/" 
+  then name the file whatever and now you can commit those changes. You can now open 
+  that folder and upload files like normal. This is the ONLY way to upload/make a folder.
+  	NOTE: The folder name must match the ones written in your code!
+- If you have a subfolder inside of another subfolder type "firstFolderName/secondFolderName" then the file name. NOTE: If you make multiple subfolders this way, the folder in your root will say "firstFolderName/secondFolderName". Clicking will open into the second folder, to go to the first click the folder ".." (think of links and how "../file" works).
+- After every file and folder is added, enter Settings -> Pages.
+- Under Branch change None to Main, keep /(root), and save.
+- Add a domain name and save.
+- Click Visit Site. That url is how you visit the site!
+
+https://github.com/LeeO03/VoicesBaseComprehensiveExample
+(Here's an example of a "finished" GitHub page).
+
+https://leeo03.github.io/VoicesBaseComprehensiveExample/index.html
+(Here's an example of a "finished" visitable site. YOURS WILL NOT LOOK LIKE THIS).
+
+Watch the GitHub Walkthrough: (On Comprehensive Submission Page).
+
+
+======================================================================================
+
+Things to Double Check BEFORE submitting:
+
+- Each page has a unique title, a consistent nav, and uses bootstrap.
+- There is a home page.
+- There is a service page with 4 services.
+- There is a team page including images and bios.
+- There is a contact page including a form.
+- All links work.
+- It is hosted via GitHub.
+ 
+
+Submit your finished .zip folder to the assignment dropbox AND 
+Include the URL of both your Github code page and your finished site via a comment.
